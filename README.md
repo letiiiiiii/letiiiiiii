@@ -1,14 +1,10 @@
 # @ letiiiiiii
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F8BBD0&center=true&vCenter=true&width=600&lines=girly+programmer;gamedev;data+scientist;nerd;ai+entusiastic;professional+grinder;cozy+vibes;" alt="Typing SVG" />
-</div>
-
 ---
 
 ## about me::
 
-hello! my name is *letícia*, a 22-year-old from brazil who loves creating things — especially while listening to music!  i’m passionate about games, animes and art! combining programming with my interests is what excites me the most.  this github is the home to my personal projects in progress, so feel free to explore ⟡
+hello! my name is *letícia*, i'm a 22-year-old girl from brazil who loves creating things!  i’m passionate about music, games, animes and art! combining programming with my interests is what excites me the most.  this github is the home to my personal projects in progress, so feel free to explore ⟡
 
 
 ---
